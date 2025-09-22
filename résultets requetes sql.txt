@@ -1,0 +1,11 @@
+synthèse des requetes sql
+a. le chiffre d'affaires total
+44825
+b. les ventes par produit
+Produit A	17500
+Produit B	15825
+Produit C	11500
+
+c. les ventes par région
+Nord	20725
+Sud	24100
